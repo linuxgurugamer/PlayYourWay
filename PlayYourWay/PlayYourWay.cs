@@ -275,7 +275,7 @@ namespace PlayYourWay
         static ConfigNode GetConfig()
         {
             string assemblyPath = Path.GetDirectoryName(typeof(PlayYourWay).Assembly.Location);
-            string filePath = Path.Combine(assemblyPath, "PYWSettings.cfg");
+            string filePath = Path.Combine(assemblyPath, "../PluginData/PYWSettings.cfg");
 
             PlayYourWay.Log("Loading settings file:" + filePath);
 

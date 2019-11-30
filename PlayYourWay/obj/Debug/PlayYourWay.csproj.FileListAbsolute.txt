@@ -38,3 +38,8 @@ C:\Users\Tavish\Documents\GitHub\PlayYourWay\PlayYourWay\obj\Debug\PlayYourWay.c
 C:\Users\Tavish\Documents\GitHub\PlayYourWay\PlayYourWay\obj\Debug\PlayYourWay.csproj.CoreCompileInputs.cache
 C:\Users\Tavish\Documents\GitHub\PlayYourWay\PlayYourWay\obj\Debug\PlayYourWay.dll
 C:\Users\Tavish\Documents\GitHub\PlayYourWay\PlayYourWay\obj\Debug\PlayYourWay.pdb
+D:\Users\jbb\github\PlayYourWay\PlayYourWay\bin\Debug\PlayYourWay.dll
+D:\Users\jbb\github\PlayYourWay\PlayYourWay\bin\Debug\PlayYourWay.pdb
+D:\Users\jbb\github\PlayYourWay\PlayYourWay\obj\Debug\PlayYourWay.csproj.CoreCompileInputs.cache
+D:\Users\jbb\github\PlayYourWay\PlayYourWay\obj\Debug\PlayYourWay.dll
+D:\Users\jbb\github\PlayYourWay\PlayYourWay\obj\Debug\PlayYourWay.pdb

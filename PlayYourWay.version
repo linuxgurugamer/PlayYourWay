@@ -1,0 +1,22 @@
+{
+  "NAME": "PlayYourWay",
+  "URL": "http://ksp.spacetux.net/avc/PlayYourWay",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/PlayYourWay/releases",
+  "CHANGELOG": "https://raw.githubusercontent.com/linuxgurugamer/PlayYourWay/master/Changelog.txt",
+  "GITHUB": {
+    "USERNAME": "linuxgurugamer",
+    "REPOSITORY": "PlayYourWay",
+    "ALLOW_PRE_RELEASE": false
+  },
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 0,
+    "PATCH": 8,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 8,
+    "PATCH": 0
+  }
+}

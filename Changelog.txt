@@ -1,0 +1,38 @@
+ChangeLog
+
+1.0.8
+	Adoption by Linuxgurugamer at Galelio's request
+	Added InstallChecker
+	Moved PWYSettings.cfg into PluginData directory
+	Added AssemblyVersion.tt
+	Added Changelog.txt
+	Added License.md
+
+1.0.7
+	Simple recompile for KSP 1.4.2
+
+1.0.6
+	Fix type load exception
+	Updated assembly version
+
+1.0.5
+	Update for KSP 1.3.1
+
+1.0.4
+	Removed Module Manager.
+	"queueLength" ruturns! Now as a value of 1!
+
+1.0.3
+	Removed the "NoContract" cfg in favor of Contract Configurator and its capability to parse contracts
+	Removed the "queueLength" from the settings cfg, as it should be changed.
+	Should remove bloat and fps drop from ksp trying to spawn contracts in the background.
+
+1.0.2
+	Updated for KSP 1.3
+
+1.0.1
+	Fixed error in NoContracts.cfg that allowed survey contracts to sneak through
+	Included Module Manager
+
+1.0.0
+	Initial Release
