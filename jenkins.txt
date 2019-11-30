@@ -35,8 +35,8 @@
 
 # 3:SOURCEFILE, DESTDIR
 3:PlayYourWay.version,GameData/PlayYourWay
-3:License.md,GameData/KerbalHotSeat
-3:README.md,GameData/KerbalHotSeat
+3:License.md,GameData/PlayYourWay
+3:README.md,GameData/PlayYourWay
 
 
 #
